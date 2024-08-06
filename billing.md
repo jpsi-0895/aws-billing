@@ -31,3 +31,13 @@ Organize your costs across teams, applications, or end customers.
 Estimate the cost of a planned workload, and create budgets to track and control costs.
 
 - `Budgets` – Set `custom budgets` for cost and usage to govern costs across your organization and receive alerts when costs exceed your defined thresholds.
+
+## Savings and commitments
+
+Optimize resource usage and use flexible pricing models to lower your bill.
+
+- `AWS Cost Optimization Hub` – Identify savings opportunities with tailored recommendations including deleting unused resources, rightsizing, Savings Plans, and reservations.
+
+- `Savings Plans` – Reduce your bill compared to on-demand prices with flexible pricing models. Manage your Savings Plans inventory, review purchase recommendations, and analyze Savings Plan utilization and coverage.
+
+- `Reservations` – Reserve capacity at discounted rates for Amazon Elastic Compute Cloud (Amazon EC2), Amazon Relational Database Service (Amazon RDS), Amazon Redshift, Amazon DynamoDB, and more.
