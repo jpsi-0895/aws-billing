@@ -18,3 +18,11 @@ You can allocate your costs to teams, applications, or environments by using cos
 - Cost organization
 - Budgeting and planning
 - Savings and commitments
+
+## Cost organization
+
+Organize your costs across teams, applications, or end customers.
+
+- `Cost categories` – Map costs to `teams`, `applications`, or `environments`, and then view costs along these dimensions in Cost Explorer and data exports. Define split charge rules to allocate shared costs.
+
+- `Cost allocation tags` – Use resource tags to organize, and then view costs by cost allocation `tag` in Cost Explorer and data exports.
