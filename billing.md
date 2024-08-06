@@ -8,6 +8,8 @@ For larger organizations, you can use AWS Organizations to consolidate your char
 
 You can allocate your costs to teams, applications, or environments by using cost categories or cost allocation tags, or using AWS Cost Explorer. You can also export data to your preferred data warehouse or business intelligence tool.
 
+![AWS Billing](assets/image.png)
+
 # Features of AWS Billing and Cost Management
 
 ### Topics
