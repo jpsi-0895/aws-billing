@@ -26,3 +26,8 @@ Organize your costs across teams, applications, or end customers.
 - `Cost categories` – Map costs to `teams`, `applications`, or `environments`, and then view costs along these dimensions in Cost Explorer and data exports. Define split charge rules to allocate shared costs.
 
 - `Cost allocation tags` – Use resource tags to organize, and then view costs by cost allocation `tag` in Cost Explorer and data exports.
+
+## Budgeting and planning
+Estimate the cost of a planned workload, and create budgets to track and control costs.
+
+- `Budgets` – Set `custom budgets` for cost and usage to govern costs across your organization and receive alerts when costs exceed your defined thresholds.
